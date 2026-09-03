@@ -1,0 +1,17 @@
+# Python environment
+venv/
+env/
+MCP_venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Sensitive data
+.env
+
+# OS files
+.DS_Store
+
+# Database and heavy files
+# data/processed/
